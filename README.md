@@ -4,3 +4,4 @@ Unseen Creatives is a photography blog inspired by my brother, Brian Wu. The fol
 
 [This site is a work in progress].
 
+Note: Credit for original web template given to HTML5 UP (http://html5up.net) under the Creative Commons Attribution 3.0 License. They're team is doing great work. Thank you!
