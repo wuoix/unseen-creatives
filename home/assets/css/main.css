@@ -2170,6 +2170,10 @@ ul.default li {
 	padding-left: 0.5em;
 }
 
+ul.labeled-icons {
+	margin-bottom: 0px;
+}
+
 ul.labeled-icons li {
 	margin-bottom: 10px;
 }
