@@ -3069,7 +3069,7 @@ body {
 
 /* Intro */
 #intro {
-	background: url("images/overlay.png"), url("../../images/intro.jpg");
+	background: url("images/overlay.png"), url("https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xpt1/t31.0-8/12028771_844325265681531_366714558263217266_o.jpg");
 	background-size: 256px 256px, cover;
 	background-attachment: fixed, fixed;
 	background-position: top left, bottom center;
@@ -3078,7 +3078,7 @@ body {
 
 /* One */
 #one {
-	background: url("images/overlay.png"), url("../../images/one.jpg");
+	background: url("images/overlay.png"), url("https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xla1/v/t1.0-9/12299198_869165663197491_3669984820314239636_n.jpg?oh=b269880d6d106263b03af8046be3eb43&oe=56D4FB71");
 	background-size: 256px 256px, cover;
 	background-attachment: fixed, fixed;
 	background-position: top left, center center;
@@ -3086,7 +3086,7 @@ body {
 
 /* Two */
 #two {
-	background: url("images/overlay.png"), url("../../images/two.jpg");
+	background: url("images/overlay.png"), url("https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xtp1/t31.0-8/12080296_835158783264846_723423126337504849_o.jpg");
 	background-size: 256px 256px, cover;
 	background-attachment: fixed, fixed;
 	background-position: top left, center center;
